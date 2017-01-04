@@ -1,0 +1,30 @@
+{
+  "name": "drivinschoolapp",
+  "version": "1.0.0",
+  "description": "This app organizes the registered students at a drivin school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handriamanantena/nodeJsDriving.git"
+  },
+  "keywords": [
+    "driving",
+    "school",
+    "students"
+  ],
+  "author": "Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handriamanantena/nodeJsDriving/issues"
+  },
+  "homepage": "https://github.com/handriamanantena/nodeJsDriving#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}
